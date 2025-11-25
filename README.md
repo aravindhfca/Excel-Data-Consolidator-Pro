@@ -229,4 +229,3 @@ For issues, questions, or suggestions:
 1. Check the error log: `~/excel_merger_error_log.txt`
 2. Review existing issues on GitHub
 3. Create a new issue with detailed information
-4. 
